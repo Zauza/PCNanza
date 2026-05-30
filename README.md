@@ -1,2 +1,2 @@
-A fork of a Zaxour mod for installation in PCEngine without cutting the metal screen. This mod was created for myself to output images via a DIN-8 connector, RGB only. However, the option to output signals via FFC remains.
+A fork of a Zaxour <a href="https://github.com/zaxour/TurboNanza">TurboNanza</a> mod for installation in PCEngine without cutting the metal screen. This mod was created for myself to output images via a DIN-8 connector, RGB only. However, the option to output signals via FFC remains.
 <img width="700" height="529" align="center" alt="preview" src="https://github.com/user-attachments/assets/f5b0b17c-a52a-48c7-8671-ff9a1a6767eb" />
