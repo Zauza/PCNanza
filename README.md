@@ -1,0 +1,1 @@
+A fork of a Zaxour mod for installation in PCEngine without cutting the metal screen. This mod was created for myself to output images via a DIN-8 connector, RGB only. However, the option to output signals via FFC remains.
